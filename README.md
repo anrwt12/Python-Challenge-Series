@@ -7,18 +7,43 @@ This repository is a beginner-friendly Python learning series designed to help s
 Whether you're a beginner, preparing for coding interviews, or learning Python for Data Analytics, this repository will guide you step by step.
 
 ---
+Each notebook contains:
+
+- 📚 Detailed Theory Notes
+- 💻 Practical Coding Examples
+- 🌍 Real-World Examples
+- 🎯 Interview Questions
+- ⚠️ Common Mistakes
+- 📝 Practice Questions
+- 📌 Assignments & Exercises
+
+Whether you're a **beginner**, **college student**, **Data Analyst aspirant**, or preparing for **coding interviews**, this repository will guide you step by step.
+
+---
+
+# 📂 Repository Structure
+
+```text
+Python-Challenge-Series/
+│
+├── Day-01-Introduction-to-Python.ipynb
+├── Day-02-Variables-Input-Output.ipynb
+├── Day_03_Data_Types_in_Python.ipynb
+├── Day_04_Operators_in_Python.ipynb
+└── README.md
+```
+
+---
 
 # 📚 Course Roadmap
 
-## ✅ Day 1: Introduction to Python
+## ✅ Day 1 – Introduction to Python
 
-### Topics Covered
+Topics Covered
 
-- What is a Programming Language?
-- What is Python?
-- Who Invented Python?
+- Programming Language
+- Introduction to Python
 - History of Python
-- Why Learn Python?
 - Features of Python
 - Applications of Python
 - Python Syntax
@@ -26,49 +51,39 @@ Whether you're a beginner, preparing for coding interviews, or learning Python f
 
 ---
 
-## ✅ Day 2: Variables, Identifiers, Keywords, Comments & Input/Output
+## ✅ Day 2 – Variables, Identifiers, Keywords, Comments & Input/Output
 
-### Topics Covered
+Topics Covered
 
 - Variables
-- Rules for Naming Variables
-- snake_case Naming Convention
-- Variable Assignment
-- Multiple Variable Assignment
-- Assigning Same Value to Multiple Variables
 - Identifiers
 - Keywords
 - Comments
-- Input and Output
+- Variable Naming Rules
+- Variable Assignment
+- Input & Output
 - print() Function
-- sep Parameter
-- end Parameter
-- Escape Characters
 - input() Function
-- Taking Input from the User
+- Escape Characters
 
 ---
 
-## ✅ Day 3: Data Types in Python
+## ✅ Day 3 – Data Types in Python
 
-### Topics Covered
+Topics Covered
 
-- What are Data Types?
-- Why are Data Types Important?
-- Built-in Data Types
-- Numeric Data Types
-  - Integer (int)
-  - Float (float)
-  - Complex (complex)
-- Boolean Data Type
-- String Data Type
-- Sequence Data Types
-  - List
-  - Tuple
-  - Range
-- Mapping Data Type (Dictionary)
-- Set Data Type
-- None Type
+- Data Types
+- Integer
+- Float
+- Complex
+- Boolean
+- String
+- List
+- Tuple
+- Range
+- Dictionary
+- Set
+- None
 - type() Function
 - id() Function
 - Indexing
@@ -76,86 +91,90 @@ Whether you're a beginner, preparing for coding interviews, or learning Python f
 
 ---
 
+## ✅ Day 4 – Operators in Python
+
+Topics Covered
+
+- Type Casting
+- Arithmetic Operators
+- Assignment Operators
+- Comparison Operators
+- Logical Operators
+- Identity Operators
+- Membership Operators
+- Bitwise Operators
+- Operator Precedence
+- Associativity
+- Short Circuit Evaluation
+- Chained Comparisons
+- Expressions vs Statements
+- Real-World Examples
+- Mini Projects
+- Interview Questions
+- Practice Questions
+
+---
+
 # 🚀 Upcoming Topics
 
-⏳ **Day 4:** Type Casting
-
-⏳ **Day 5:** Operators
-
-⏳ **Day 6:** Strings
-
-⏳ **Day 7:** Conditional Statements
-
-⏳ **Day 8:** Loops
-
-⏳ **Day 9:** Lists
-
-⏳ **Day 10:** Tuples
-
-⏳ **Day 11:** Sets
-
-⏳ **Day 12:** Dictionaries
-
-⏳ **Day 13:** Functions
-
-⏳ **Day 14:** Modules & Packages
-
-⏳ **Day 15:** Exception Handling
-
-⏳ **Day 16:** File Handling
-
-⏳ **Day 17:** Object-Oriented Programming (OOP)
-
-⏳ **Day 18:** NumPy
-
-⏳ **Day 19:** Pandas
-
-⏳ **Day 20:** Matplotlib
-
-⏳ **Day 21:** Mini Projects
-
-⏳ **Day 22+:** Python Coding Challenges & Interview Questions
+- ⏳ Day 5 – Strings
+- ⏳ Day 6 – Conditional Statements
+- ⏳ Day 7 – Loops
+- ⏳ Day 8 – Lists
+- ⏳ Day 9 – Tuples
+- ⏳ Day 10 – Sets
+- ⏳ Day 11 – Dictionaries
+- ⏳ Day 12 – Functions
+- ⏳ Day 13 – Modules & Packages
+- ⏳ Day 14 – Exception Handling
+- ⏳ Day 15 – File Handling
+- ⏳ Day 16 – Object-Oriented Programming (OOP)
+- ⏳ Day 17 – NumPy
+- ⏳ Day 18 – Pandas
+- ⏳ Day 19 – Matplotlib
+- ⏳ Day 20 – Mini Projects
+- ⏳ Day 21+ – Coding Challenges & Interview Preparation
 
 ---
 
-# 📅 Progress Tracker
+# 📈 Progress Tracker
 
 | Day | Topic | Status |
-|-----|-------------------------------|:------:|
+|-----|------------------------------|:------:|
 | 1 | Introduction to Python | ✅ |
-| 2 | Variables, Input & Output | ✅ |
+| 2 | Variables & Input/Output | ✅ |
 | 3 | Data Types | ✅ |
-| 4 | Type Casting | ⏳ |
-| 5 | Operators | ⏳ |
-| 6 | Strings | ⏳ |
-| 7 | Conditional Statements | ⏳ |
-| 8 | Loops | ⏳ |
-| 9 | Lists | ⏳ |
-| 10 | Tuples | ⏳ |
-| 11 | Sets | ⏳ |
-| 12 | Dictionaries | ⏳ |
-| 13 | Functions | ⏳ |
-| 14 | Modules & Packages | ⏳ |
-| 15 | Exception Handling | ⏳ |
-| 16 | File Handling | ⏳ |
-| 17 | Object-Oriented Programming | ⏳ |
-| 18 | NumPy | ⏳ |
-| 19 | Pandas | ⏳ |
-| 20 | Matplotlib | ⏳ |
-| 21 | Mini Projects | ⏳ |
-| 22+ | Coding Challenges | ⏳ |
+| 4 | Operators | ✅ |
+| 5 | Strings | ⏳ |
+| 6 | Conditional Statements | ⏳ |
+| 7 | Loops | ⏳ |
+| 8 | Lists | ⏳ |
+| 9 | Tuples | ⏳ |
+| 10 | Sets | ⏳ |
+| 11 | Dictionaries | ⏳ |
+| 12 | Functions | ⏳ |
+| 13 | Modules & Packages | ⏳ |
+| 14 | Exception Handling | ⏳ |
+| 15 | File Handling | ⏳ |
+| 16 | OOP | ⏳ |
+| 17 | NumPy | ⏳ |
+| 18 | Pandas | ⏳ |
+| 19 | Matplotlib | ⏳ |
+| 20 | Mini Projects | ⏳ |
+| 21+ | Coding Challenges | ⏳ |
 
 ---
 
-# 💡 What You'll Find
+# ✨ What You'll Learn
 
-- 📖 Beginner-friendly Notes
-- 💻 Practical Code Examples
+- 📖 Beginner-Friendly Theory
+- 💻 Hands-on Coding
 - 🌍 Real-World Examples
+- 📊 Python for Data Analytics
+- 🎯 Interview Preparation
 - 📝 Practice Questions
-- 🎯 Interview Questions
-- ⚠️ Common Mistakes
-- 🚀 Hands-on Learning
+- 📌 Assignments
+- 🚀 Mini Projects
 
 ---
 
@@ -164,25 +183,38 @@ Whether you're a beginner, preparing for coding interviews, or learning Python f
 - Python 3
 - Google Colab
 - GitHub
+- Jupyter Notebook
 
 ---
 
-# 🎯 Who Is This For?
+# 🎯 Who Is This Repository For?
 
-- Python Beginners
-- Computer Science Students
-- Data Analyst Aspirants
-- Coding Interview Preparation
-- Self-Learners
+- 🐍 Python Beginners
+- 🎓 Computer Science Students
+- 📊 Data Analyst Aspirants
+- 💼 Coding Interview Preparation
+- 🚀 Self Learners
 
 ---
 
 # ⭐ Support
 
-If you find this repository helpful, please consider giving it a **⭐ Star**.
+If you found this repository helpful,
 
-It motivates me to continue building and improving this Python learning series.
+⭐ Star this repository
+
+🍴 Fork it
+
+📢 Share it with your friends
+
+Your support motivates me to continue creating free educational content.
 
 ---
 
-## Happy Coding! 🚀🐍
+# 📜 License
+
+This project is open-source and available under the **MIT License**.
+
+---
+
+## 🚀 Happy Coding! 🐍
