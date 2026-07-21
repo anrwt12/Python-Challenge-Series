@@ -13,7 +13,6 @@ Each notebook contains:
 - 💻 Practical Coding Examples
 - 🌍 Real-World Examples
 - 🎯 Interview Questions
-- ⚠️ Common Mistakes
 - 📝 Practice Questions
 - 📌 Assignments & Exercises
 
@@ -30,6 +29,7 @@ Python-Challenge-Series/
 ├── Day-02-Variables-Input-Output.ipynb
 ├── Day_03_Data_Types_in_Python.ipynb
 ├── Day_04_Operators_in_Python.ipynb
+├── Day-05-Type-Casting.ipynb
 └── README.md
 ```
 
@@ -95,7 +95,7 @@ Topics Covered
 
 Topics Covered
 
-- Type Casting
+
 - Arithmetic Operators
 - Assignment Operators
 - Comparison Operators
@@ -115,9 +115,31 @@ Topics Covered
 
 ---
 
+
+## ✅ Day 5 – Type Casting in Python
+
+### Topics Covered
+
+- What is Type Casting?
+- Type Conversion
+- Implicit Type Casting
+- Explicit Type Casting
+- `int()`
+- `float()`
+- `str()`
+- `bool()`
+- `list()`
+- `tuple()`
+- `set()`
+- `dict()`
+- Type Casting with `input()`
+- Real-Life Examples
+- User Input Examples
+
+  ---
+
 # 🚀 Upcoming Topics
 
-- ⏳ Day 5 – Strings
 - ⏳ Day 6 – Conditional Statements
 - ⏳ Day 7 – Loops
 - ⏳ Day 8 – Lists
@@ -140,28 +162,30 @@ Topics Covered
 # 📈 Progress Tracker
 
 | Day | Topic | Status |
-|-----|------------------------------|:------:|
+|------|------------------------------|:------:|
 | 1 | Introduction to Python | ✅ |
 | 2 | Variables & Input/Output | ✅ |
 | 3 | Data Types | ✅ |
 | 4 | Operators | ✅ |
-| 5 | Strings | ⏳ |
+| 5 | Type Casting | ✅ |
 | 6 | Conditional Statements | ⏳ |
-| 7 | Loops | ⏳ |
-| 8 | Lists | ⏳ |
-| 9 | Tuples | ⏳ |
-| 10 | Sets | ⏳ |
-| 11 | Dictionaries | ⏳ |
-| 12 | Functions | ⏳ |
-| 13 | Modules & Packages | ⏳ |
-| 14 | Exception Handling | ⏳ |
-| 15 | File Handling | ⏳ |
-| 16 | OOP | ⏳ |
-| 17 | NumPy | ⏳ |
-| 18 | Pandas | ⏳ |
-| 19 | Matplotlib | ⏳ |
-| 20 | Mini Projects | ⏳ |
-| 21+ | Coding Challenges | ⏳ |
+| 7 | Strings | ⏳ |
+| 8 | Loops | ⏳ |
+| 9 | Lists | ⏳ |
+| 10 | Tuples | ⏳ |
+| 11 | Sets | ⏳ |
+| 12 | Dictionaries | ⏳ |
+| 13 | Functions | ⏳ |
+| 14 | Modules & Packages | ⏳ |
+| 15 | Exception Handling | ⏳ |
+| 16 | File Handling | ⏳ |
+| 17 | Object-Oriented Programming (OOP) | ⏳ |
+| 18 | NumPy | ⏳ |
+| 19 | Pandas | ⏳ |
+| 20 | Matplotlib | ⏳ |
+| 21 | Mini Projects | ⏳ |
+| 22+ | Coding Challenges & Interview Preparation | ⏳ |
+
 
 ---
 
